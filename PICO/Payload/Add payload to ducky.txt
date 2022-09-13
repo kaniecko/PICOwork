@@ -1,0 +1,11 @@
+1.Get payload off of https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
+
+or create own
+
+2.Paste payload into new text file and rename the text file to payload.dd
+
+3.Paste the file into the PICO
+
+4.Unhook PICO immediately
+
+5.When plugged in the pico will run the script

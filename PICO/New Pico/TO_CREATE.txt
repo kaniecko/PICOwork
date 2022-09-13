@@ -1,0 +1,7 @@
+1.Use UF2 file and drag onto PICO device
+
+2.Transfer HID file onto the PICO device's lib file
+
+3.Replace code.py with duckyinpython.py and rename to code.py
+
+4.Done, made new bad usb 

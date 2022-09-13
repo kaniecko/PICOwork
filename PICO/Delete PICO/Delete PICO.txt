@@ -1,0 +1,5 @@
+1.Hold button on PICO and plug in
+
+2.Put the flash_nuke.UF2 file on the PICO
+
+3.To recreate PICO use create new folder to restart
